@@ -1,19 +1,38 @@
 # Projeto radar 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
 
+
+# Autores
+
+- [Beatriz Miotto](https://www.linkedin.com);
+
+- [Jaziel Matos](https://www.linkedin.com);
+ 
+- [Gustavo Lima](https://www.linkedin.com);
+ 
+- [Kenps Rossi](https://www.linkedin.com/in/kenps-adv-dev/);
+ 
+- [Wallace Cocuzza](https://www.linkedin.com);
+ 
+- [Gabriel Belo](https://www.linkedin.com/);
+
+
+
 # Sobre o projeto
 
-https://endereço do site rodando
+
+
+Radar é uma projeto do programa de treinamento **Código do futuro**, uma parceria da
+[Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy"), objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
+
+O projeto **Radar** consiste em ...
+
+
 
 https://youtube video da apresentação
 
-Radar é uma projeto ... programa **Código do futuro**, 
-... um evento organizado em uma parceria entre a
-[Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") a [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") e a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy").
 
-O projeto **Radar** consiste em ... 
-
-
+https://endereço do site rodando
 
 ## Layout
 ![Web 1](https://github.png)
@@ -25,11 +44,25 @@ O projeto **Radar** consiste em ...
 
 # Tecnologias utilizadas
 
+HTML
+
+CSS
+
+TypeScript
+
+JavaScript
+
 Dotnet API C#
-Testes com UnitTest (opcional)
+
+Testes com UnitTest
+
 Banco de dados MySQL
-Rodar a aplicação no localhost
-Criar um front-end do projeto em Angular
+
+.Net
+
+Angular
+
+C#
 
 ## Implantação em produção
 - Back end:
@@ -69,9 +102,3 @@ git clone https://github.com/BG2JKW/projeto-radar-angular
 # executar o projeto
 ...
 ```
-
-# Autores
-
-BG2JKW
-
-https://www.linkedim
