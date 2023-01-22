@@ -7,7 +7,7 @@ https://endereço do site rodando
 
 https://youtube video da apresentação
 
-Radar é uma projeto ... programa **Código do futuro** (#sds1), 
+Radar é uma projeto ... programa **Código do futuro**, 
 ... um evento organizado em uma parceria entre a
 [Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") a [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") e a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy").
 
