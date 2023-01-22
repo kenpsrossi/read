@@ -124,7 +124,7 @@ https://endereço do site rodando
 
 #  :large_orange_diamond: Como executar o projeto
 
-##  :large_orange_diamond: Back end
+##  :bulb: Back end
 - Pré-requisitos: 
 
 ```bash
@@ -140,7 +140,7 @@ git clone https://github.com/BG2JKW/Radar_Api
 ...
 ```
 
-##  :large_orange_diamond: Front end web
+##  :bulb: Front end web
 - Pré-requisitos: 
 
 ```bash
