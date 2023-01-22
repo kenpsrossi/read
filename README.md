@@ -15,7 +15,7 @@ O projeto **Radar** consiste em ...
 
 
 
-## Layout web
+## Layout
 ![Web 1](https://github.png)
 
 ![Web 2](https://github.png)
@@ -43,9 +43,12 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github
+git clone https://github.com/BG2JKW/Radar_Api
 
-# entrar na pasta do projeto Radar-Api
+# entrar na pasta do projeto Radar_Api
+
+# instalar dependências
+...
 
 # executar o projeto
 ...
@@ -56,7 +59,7 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github
+git clone https://github.com/BG2JKW/projeto-radar-angular
 
 # entrar na pasta do projeto projeto-radar-angular
 
