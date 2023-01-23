@@ -8,6 +8,7 @@
 #  :large_orange_diamond: Autores :
 
 
+
 - [Beatriz Miotto](https://www.linkedin.com/in/beatriz-miotto-8025b7200/) ;
 
 - [Jaziel Matos](https://www.linkedin.com/in/jaziel-matos-7b7256212/) ;
