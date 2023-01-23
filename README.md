@@ -4,7 +4,7 @@
 
 
 
-| ![Beatriz Miotto](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://imgur.com/2cwueyO.png) |![Gustavo Lima]()|![Kenps Rossi]()  |
+| ![Beatriz Miotto](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://imgur.com/2cwueyO.png) |![Gustavo Lima](https://ca.slack-edge.com/T046RUYBTSB-U047TUNGUDT-2695545744d1-512)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  |
 |:--:|:--:|:--:|:--:|
 | Gustavo Pereira | Jaziel Matos | Rafael Falcão  | Jonathan Tenório |
 
