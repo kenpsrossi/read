@@ -2,6 +2,18 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>
 
+
+
+| ![Gustavo Pereira](https://imgur.com/qKI8vdA.png) | ![Jaziel Matos](https://imgur.com/2cwueyO.png) |![Rafael Falcão](https://imgur.com/dIpaelh.png)|![Jonathan Tenório](https://imgur.com/BdMu0gd.png)  |
+|:--:|:--:|:--:|:--:|
+| Gustavo Pereira | Jaziel Matos | Rafael Falcão  | Jonathan Tenório |
+
+|![Bruno Corrêa](https://imgur.com/YX5eoMG.png)  |![Sérgio Alves](https://imgur.com/g5Iidte.png)  |![Lucas de Grande](https://imgur.com/YyAeOoK.png)  | ![Código do Futuro](https://imgur.com/LSORhfc.png) |
+|:--:|:--:|:--:|:--:|
+| Bruno Corrêa |Sérgio Alves |Lucas de Grande  |Código do Futuro|
+
+
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
 
 
@@ -30,7 +42,7 @@
 Radar é uma projeto do programa de treinamento **Código do futuro**, uma parceria da
 [Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy"), objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
 
-O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end API, permitindo desse modo o controle interno
+O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end AspNet core API C#, permitindo desse modo o controle interno
 sobre as informações do sistema radar, que tem como funcionalidades:
 
 :small_orange_diamond: Pagina login ;  :white_check_mark:                                                
@@ -53,7 +65,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 :small_orange_diamond: Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas . :white_check_mark:
 
-:small_orange_diamond: Compreende ainda funcionalidades extras como :
+- Compreende ainda funcionalidades extras como :
 
 :small_orange_diamond: Autenticação JWT na API ; :white_check_mark:
 
@@ -103,19 +115,22 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
+- **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
+
+
 - **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
 
 - **C#**   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
-- **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
+- **AspNet core**  <img align="center" alt="Js" height="30" width="40" src="https://ih0.redbubble.net/image.366684650.5673/flat,800x800,075,f.u1.jpg">
 
 
 - **Banco de dados MySQL** <img align="center" alt="Js" height="30" width="40" src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png">
 
          
-- **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://drakontis.github.io/img/skills/unittest_icon.png">   
+- **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">   
         
 
 
