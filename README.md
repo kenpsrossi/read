@@ -78,6 +78,8 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 :small_orange_diamond: Testes de unidade e funcionalidades ; :white_check_mark:
 
+:small_orange_diamond: Utilização da API CEP para códigos de endereçamento ; :white_check_mark:
+
 :small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark:
 
 
@@ -97,6 +99,8 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 - Definimos cada responsável pelo card ou checklist de completude ;
 - Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade .
 
+## Modelo conceitual
+![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
 
 ##  :large_orange_diamond: Layout
 
