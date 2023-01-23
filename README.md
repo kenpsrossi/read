@@ -1,4 +1,4 @@
-# :o: Projeto radar <img align="right" height="550em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+# :o: Projeto radar <img align="right" width="420em" height="480em" src="https://www.farmarcas.com.br/wp-content/uploads/2022/10/9I1A7279.jpg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>
 
@@ -22,7 +22,7 @@
 
 
 
-#  :large_orange_diamond: Sobre o projeto :
+#  :large_orange_diamond: Sobre o projeto :  :bookmark_tabs:
 
 
 
@@ -32,33 +32,33 @@ Radar é uma projeto do programa de treinamento **Código do futuro**, uma parce
 O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end API, permitindo desse modo o controle interno
 sobre as informações do sistema radar, que tem como funcionalidades:
 
-:small_orange_diamond: Pagina login ;                                                   
+:small_orange_diamond: Pagina login ;  :white_check_mark:                                                
 
-:small_orange_diamond: Página home ;
+:small_orange_diamond: Página home ;  :white_check_mark:
 
-:small_orange_diamond: Página cadastro de produtos ;
+:small_orange_diamond: Página cadastro de produtos ; :white_check_mark:
 
-:small_orange_diamond: Página cadastro de clientes ;
+:small_orange_diamond: Página cadastro de clientes ; :white_check_mark:
 
-:small_orange_diamond: Página cadastro de pedidos dos clientes ;
+:small_orange_diamond: Página cadastro de pedidos dos clientes ; :white_check_mark:
 
-:small_orange_diamond: Página de fluxo de caixa ;
+:small_orange_diamond: Página de fluxo de caixa ; :white_check_mark:
 
-:small_orange_diamond: Página cadastro de lojas ;
+:small_orange_diamond: Página cadastro de lojas ; :white_check_mark:
 
-:small_orange_diamond: Página de fluxo de caixa ;
+:small_orange_diamond: Página de fluxo de caixa ; :white_check_mark:
 
-:small_orange_diamond: Página para organização dos produtos das lojas ;
+:small_orange_diamond: Página para organização dos produtos das lojas ; :white_check_mark:
 
-:small_orange_diamond: Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas .
+:small_orange_diamond: Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas . :white_check_mark:
 
 :small_orange_diamond: Compreende ainda funcionalidades extras como :
 
-:small_orange_diamond: Autenticação JWT na API ;
+:small_orange_diamond: Autenticação JWT na API ; :white_check_mark:
 
-:small_orange_diamond: Testes de unidade e funcionalidades ;
+:small_orange_diamond: Testes de unidade e funcionalidades ; :white_check_mark:
 
-:small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa .
+:small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark:
 
 
 
@@ -67,7 +67,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Organização do Projeto : 📈
+##  :large_orange_diamond: Organização do Projeto :  :clipboard:
 - Elaboramos o kanban utilizando o Trello ;
 - Criamos prototipação ;
 - Criamos o backlog ;
