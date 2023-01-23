@@ -27,7 +27,7 @@
 Radar é uma projeto do programa de treinamento **Código do futuro**, uma parceria da
 [Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy"), objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
 
-O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio, com o projeto back-end API. Permitindo desse modo o controle interno
+O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end API, permitindo desse modo o controle interno
 sobre as informações do sistema radar, que tem como funcionalidades:
 
 :small_orange_diamond: Pagina login;                                                   
@@ -61,10 +61,8 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-https://youtube video da apresentação
+ <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-
-https://endereço do site rodando
 
 
 ##  :large_orange_diamond: Organização do Projeto 📈
@@ -79,12 +77,12 @@ https://endereço do site rodando
 
 
 ##  :large_orange_diamond: Layout
+
 ![Web 1](https://github.png)
 
 ![Web 2](https://github.png)
 
-##   :large_orange_diamond: Modelo conceitual
-![Modelo Conceitual](https://github.png)
+
 
 
 
@@ -102,10 +100,10 @@ https://endereço do site rodando
 - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
-- **.Net** <img align="center" alt="Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/480px-Microsoft_.NET_logo.svg.png">
+- **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
 
-- **C#**   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+- **C#**   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
 - **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
@@ -117,10 +115,6 @@ https://endereço do site rodando
 - **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://drakontis.github.io/img/skills/unittest_icon.png">   
         
 
-##  :large_orange_diamond: Implantação em produção
-- Back end:
-- Front end web:
-- Banco de dados: 
 
 #  :large_orange_diamond: Como executar o projeto
 
