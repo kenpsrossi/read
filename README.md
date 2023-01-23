@@ -46,7 +46,7 @@
 
 
 
-Radar é uma projeto do programa de treinamento **Código do futuro**, uma parceria da
+Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">**Código do futuro**, uma parceria da
 [Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy"), objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
 
 O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end AspNet core API C#, permitindo desse modo o controle interno
