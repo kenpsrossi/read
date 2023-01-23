@@ -6,9 +6,9 @@
 
 | ![Beatriz Miotto](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://imgur.com/2cwueyO.png) |![Gustavo Lima](https://ca.slack-edge.com/T046RUYBTSB-U047TUNGUDT-2695545744d1-512)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  |
 |:--:|:--:|:--:|:--:|
-| Gustavo Pereira | Jaziel Matos | Rafael Falcão  | Jonathan Tenório |
+| Gustavo Pereira | Jaziel Matos | Gustavo Lima | Kenps Rossi |
 
-|![Bruno Corrêa](https://imgur.com/YX5eoMG.png)  |![Sérgio Alves](https://imgur.com/g5Iidte.png)  |![Lucas de Grande](https://imgur.com/YyAeOoK.png)  | ![Código do Futuro](https://imgur.com/LSORhfc.png) |
+|![Beatriz Miotto](https://imgur.com/YX5eoMG.png)  |![Sérgio Alves](https://imgur.com/g5Iidte.png)  |![Lucas de Grande](https://imgur.com/YyAeOoK.png)  | ![Código do Futuro](https://imgur.com/LSORhfc.png) |
 |:--:|:--:|:--:|:--:|
 | Bruno Corrêa |Sérgio Alves |Lucas de Grande  |Código do Futuro|
 
