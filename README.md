@@ -1,8 +1,7 @@
-# :o: Projeto radar :satellite:
-[![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
-<img align="right" width="420em" height="250em" src=""/>
+# :o:Projeto radar :satellite: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
-<p align="left"> </p>
+<p align="left"> </p>                      
+
 
 <br>
 <br>
