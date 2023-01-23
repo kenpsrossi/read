@@ -43,8 +43,7 @@
 
 
 
-Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">**Código do futuro**, uma parceria da
-[Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com a [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy") e ainda com ...aulas ao vivo e mentorias do excelente professor [Danilo Aparecido dos Santos ](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
+Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">**Código do futuro**, uma excelente iniciativa da [Farmarcas](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [Febrafar](https://www.febrafar.com.br/ "Site da Da Febrafar") com <br>  parceria da conceituada startup de educação [Gama Academy](https://www.gama.academy/ "Site da Da Gama Academy"), com aulas e mentorias ministradas ao vivo pelo exímio professor referência na área [Danilo Aparecido dos Santos ](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular.
 
 O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end AspNet core API C#, permitindo desse modo o controle interno
 sobre as informações do sistema radar, que tem como funcionalidades:
