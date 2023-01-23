@@ -5,24 +5,24 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
 
 
-#  :large_orange_diamond: Autores
+#  :large_orange_diamond: Autores :
 
 
-- [Beatriz Miotto](https://www.linkedin.com/in/beatriz-miotto-8025b7200/);
+- [Beatriz Miotto](https://www.linkedin.com/in/beatriz-miotto-8025b7200/) ;
 
-- [Jaziel Matos](https://www.linkedin.com/in/jaziel-matos-7b7256212/);
+- [Jaziel Matos](https://www.linkedin.com/in/jaziel-matos-7b7256212/) ;
  
-- [Gustavo Lima](https://www.linkedin.com/in/gustavo-salgado-lima/);
+- [Gustavo Lima](https://www.linkedin.com/in/gustavo-salgado-lima/) ;
  
-- [Kenps Rossi](https://www.linkedin.com/in/kenps-adv-dev/);
+- [Kenps Rossi](https://www.linkedin.com/in/kenps-adv-dev/) ;
  
-- [Wallace Cocuzza](https://www.linkedin.com/in/wcocuzza/);
+- [Wallace Cocuzza](https://www.linkedin.com/in/wcocuzza/) ;
  
-- [Gabriel Belo](https://www.linkedin.com/in/gabriel-b-218975121/);
+- [Gabriel Belo](https://www.linkedin.com/in/gabriel-b-218975121/) ;
 
 
 
-#  :large_orange_diamond: Sobre o projeto
+#  :large_orange_diamond: Sobre o projeto :
 
 
 
@@ -32,33 +32,33 @@ Radar é uma projeto do programa de treinamento **Código do futuro**, uma parce
 O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end API, permitindo desse modo o controle interno
 sobre as informações do sistema radar, que tem como funcionalidades:
 
-:small_orange_diamond: Pagina login;                                                   
+:small_orange_diamond: Pagina login ;                                                   
 
-:small_orange_diamond: Página home;
+:small_orange_diamond: Página home ;
 
-:small_orange_diamond: Página cadastro de produtos;
+:small_orange_diamond: Página cadastro de produtos ;
 
-:small_orange_diamond: Página cadastro de clientes;
+:small_orange_diamond: Página cadastro de clientes ;
 
 :small_orange_diamond: Página cadastro de pedidos dos clientes ;
 
-:small_orange_diamond: Página de fluxo de caixa;
+:small_orange_diamond: Página de fluxo de caixa ;
 
-:small_orange_diamond: Página cadastro de lojas;
+:small_orange_diamond: Página cadastro de lojas ;
 
-:small_orange_diamond: Página de fluxo de caixa;
+:small_orange_diamond: Página de fluxo de caixa ;
 
-:small_orange_diamond: Página para organização dos produtos das lojas;
+:small_orange_diamond: Página para organização dos produtos das lojas ;
 
-:small_orange_diamond: Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas.
+:small_orange_diamond: Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas .
 
-:small_orange_diamond: Compreende ainda funcionalidades extras como:
+:small_orange_diamond: Compreende ainda funcionalidades extras como :
 
-:small_orange_diamond: Autenticação JWT na API;
+:small_orange_diamond: Autenticação JWT na API ;
 
-:small_orange_diamond: Testes de unidade e funcionalidades;
+:small_orange_diamond: Testes de unidade e funcionalidades ;
 
-:small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa.
+:small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa .
 
 
 
@@ -67,15 +67,15 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Organização do Projeto 📈
-- Elaboramos o kanban utilizando o Trello;
-- Criamos prototipação;
-- Criamos o backlog;
-- Detalhamos o descritivo das tarefas da squad dentro dos seus cards;
-- Formatamos do kanban padrão "to do, doing, done";
-- Definimos as datas de entrega das tarefas nos cards;
-- Definimos cada responsável pelo card ou checklist de completude;
-- Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade.
+##  :large_orange_diamond: Organização do Projeto : 📈
+- Elaboramos o kanban utilizando o Trello ;
+- Criamos prototipação ;
+- Criamos o backlog ;
+- Detalhamos o descritivo das tarefas da squad dentro dos seus cards ;
+- Formatamos do kanban padrão "to do, doing, done" ;
+- Definimos as datas de entrega das tarefas nos cards ;
+- Definimos cada responsável pelo card ou checklist de completude ;
+- Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade .
 
 
 ##  :large_orange_diamond: Layout
@@ -88,7 +88,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Tecnologias utilizadas
+#  :large_orange_diamond: Tecnologias utilizadas :
 
 
 - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -118,9 +118,9 @@ sobre as informações do sistema radar, que tem como funcionalidades:
         
 
 
-#  :large_orange_diamond: Como executar o projeto
+#  :large_orange_diamond: Como executar o projeto :
 
-##  :bulb: Back end
+##  :bulb: Back end :
 - Pré-requisitos: 
 
 ```bash
@@ -136,7 +136,7 @@ git clone https://github.com/BG2JKW/Radar_Api
 ...
 ```
 
-##  :bulb: Front end web
+##  :bulb: Front end web :
 - Pré-requisitos: 
 
 ```bash
