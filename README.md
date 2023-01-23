@@ -83,7 +83,25 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 :part_alternation_mark:**Modelo lógico do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
 
-##  :large_orange_diamond: Layout
+##  :large_orange_diamond: Layout do trello
+
+![Web 1](https://github.png)
+
+![Web 2](https://github.png)
+
+##  :large_orange_diamond: Layout do código
+
+![Web 1](https://github.png)
+
+![Web 2](https://github.png)
+
+##  :large_orange_diamond: Layout do site
+
+![Web 1](https://github.png)
+
+![Web 2](https://github.png)
+
+##  :large_orange_diamond: Layout da API
 
 ![Web 1](https://github.png)
 
@@ -93,7 +111,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Tecnologias utilizadas :
+##  :large_orange_diamond: Tecnologias utilizadas :
 
 
 - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -126,7 +144,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
         
 
 
-#  :large_orange_diamond: Como executar o projeto :
+## :large_orange_diamond: Como executar o projeto :
 
 ##  :bulb: Back end :
 - Pré-requisitos : 
