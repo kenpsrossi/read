@@ -148,7 +148,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 #  :large_orange_diamond: Como executar o projeto :
 
 ##  :bulb: Back end :
-- Pré-requisitos: 
+- Pré-requisitos : 
 
 ```bash
 # clonar repositório
@@ -164,7 +164,7 @@ git clone https://github.com/BG2JKW/Radar_Api
 ```
 
 ##  :bulb: Front end web :
-- Pré-requisitos: 
+- Pré-requisitos : 
 
 ```bash
 # clonar repositório
