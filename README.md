@@ -3,7 +3,6 @@
 
 
 
-
 #  :large_orange_diamond: Autores
 
 - [Beatriz Miotto](https://www.linkedin.com);
