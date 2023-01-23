@@ -1,9 +1,12 @@
-# :o: Projeto radar 
+# :o: Projeto radar <img align="right" height="550em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
+<p align="left"> </p>
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
 
 
-
 #  :large_orange_diamond: Autores
+
 
 - [Beatriz Miotto](https://www.linkedin.com/in/beatriz-miotto-8025b7200/);
 
