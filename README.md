@@ -20,7 +20,7 @@
 
 
 
-| ![Beatriz Miotto](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://media.licdn.com/dms/image/C5603AQEqurAr_-8i9Q/profile-displayphoto-shrink_800_800/0/1642633590068?e=1680134400&v=beta&t=7u9cWp0N35FaO7vfXSxmTqr_TzVeoBcv_OMkd32iRQ8) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4) |![Gabriel Belo](https://avatars.githubusercontent.com/u/63070861?v=4)| ![Código do Futuro](https://imgur.com/LSORhfc.png) 
+| ![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://media.licdn.com/dms/image/C5603AQEqurAr_-8i9Q/profile-displayphoto-shrink_800_800/0/1642633590068?e=1680134400&v=beta&t=7u9cWp0N35FaO7vfXSxmTqr_TzVeoBcv_OMkd32iRQ8) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4) |![Gabriel Belo](https://avatars.githubusercontent.com/u/63070861?v=4)| ![Código do Futuro](https://imgur.com/LSORhfc.png) 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Beatriz Miotto|Jaziel Matos|Gustavo Lima|Kenps Rossi|Wallace Cocuzza|Gabriel Belo|**Código do futuro**|
 
