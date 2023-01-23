@@ -1,4 +1,4 @@
-# :o: Projeto radar <img align="right" width="420em" height="380em" src="https://www.farmarcas.com.br/wp-content/uploads/2022/10/9I1A7279.jpg"/>
+# :o: Projeto radar <img align="right" width="420em" height="220em" src="https://www.farmarcas.com.br/wp-content/uploads/2022/10/9I1A7279.jpg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>
 
@@ -23,7 +23,7 @@
 
 
 
-| ![Wallace Cocuzza](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://imgur.com/2cwueyO.png) |![Gustavo Lima](https://ca.slack-edge.com/T046RUYBTSB-U047TUNGUDT-2695545744d1-512)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Gustavo Lima ](https://media.licdn.com/dms/image/C4E03AQGkm2k22S5VQw/profile-displayphoto-shrink_800_800/0/1517262106727?e=1680134400&v=beta&t=ZTuZxSjfUKMhBtbtFd99nNMdJUQHZ7QJdmOnUKtL-FQ) |![Gabriel Belo](https://media.licdn.com/dms/image/C4D03AQFDscDnlS2TvA/profile-displayphoto-shrink_800_800/0/1612390311191?e=1680134400&v=beta&t=dm-hHVLgFtVoIxpzpqHS2BWpW-_xYYj-Q9l7OlRrQbg)| ![Código do Futuro](https://imgur.com/LSORhfc.png) 
+| ![Wallace Cocuzza](https://media.licdn.com/dms/image/sync/C4D27AQEACPBNfVcchQ/articleshare-shrink_480/0/1674227017412?e=1675047600&v=beta&t=CEy9xJGrShtZb5e5KkKwGxT9WrFCObRBs7Ndmn7w4eA) | ![Jaziel Matos](https://media.licdn.com/dms/image/C5603AQEqurAr_-8i9Q/profile-displayphoto-shrink_800_800/0/1642633590068?e=1680134400&v=beta&t=7u9cWp0N35FaO7vfXSxmTqr_TzVeoBcv_OMkd32iRQ8) |![Gustavo Lima](https://ca.slack-edge.com/T046RUYBTSB-U047TUNGUDT-2695545744d1-512)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Gustavo Lima ](https://media.licdn.com/dms/image/C4E03AQGkm2k22S5VQw/profile-displayphoto-shrink_800_800/0/1517262106727?e=1680134400&v=beta&t=ZTuZxSjfUKMhBtbtFd99nNMdJUQHZ7QJdmOnUKtL-FQ) |![Gabriel Belo](https://media.licdn.com/dms/image/C4D03AQFDscDnlS2TvA/profile-displayphoto-shrink_800_800/0/1612390311191?e=1680134400&v=beta&t=dm-hHVLgFtVoIxpzpqHS2BWpW-_xYYj-Q9l7OlRrQbg)| ![Código do Futuro](https://imgur.com/LSORhfc.png) 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Beatriz Miotto|Jaziel Matos|Gustavo Lima|Kenps Rossi|Wallace Cocuzza|Gabriel Belo|**Código do futuro**|
 
