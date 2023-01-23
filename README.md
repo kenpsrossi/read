@@ -1,21 +1,18 @@
-# :o: Projeto radar <img align="right" width="420em" height="220em" src="https://www.farmarcas.com.br/wp-content/uploads/2022/10/9I1A7279.jpg"/>
+# :o: Projeto radar
+[![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
+<img align="right" width="420em" height="230em" src="https://www.farmarcas.com.br/wp-content/uploads/2022/10/9I1A7279.jpg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>
 
 
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
+
+# 
 
 
 
-
-
-
-
-
-
-
+#
 
 
 
@@ -78,7 +75,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 :small_orange_diamond: Testes de unidade e funcionalidades ; :white_check_mark:
 
-:small_orange_diamond: Utilização da API CEP para códigos de endereçamento ; :white_check_mark:
+:small_orange_diamond: Utilização da API de consulta de CEP br para códigos de endereçamento ; :white_check_mark:
 
 :small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark:
 
