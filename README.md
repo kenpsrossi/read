@@ -1,18 +1,17 @@
 # :o: Projeto radar
 [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) 
-<img align="right" width="420em" height="230em" src=""/>
+<img align="right" width="420em" height="250em" src=""/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>
 
+<br>
+<br>
+<br>
 
 
 
-[![NPM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/) 
-# 
 
 
-
-#
 
 
 
@@ -20,10 +19,12 @@
 
 
 
-|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4) |![Gabriel Belo](https://avatars.githubusercontent.com/u/63070861?v=4)| ![Código do Futuro](https://imgur.com/LSORhfc.png) 
+|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4) |![Gabriel Belo](https://avatars.githubusercontent.com/u/63070861?v=4)| [![CDF](https://imgur.com/LSORhfc.png)](https://codigodofuturo.corporate.gama.academy/) 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Beatriz Miotto|Jaziel Matos|Gustavo Lima|Kenps Rossi|Wallace Cocuzza|Gabriel Belo|**Código do futuro**|
+|Beatriz Miotto|Jaziel Matos|Gustavo Lima|Kenps Rossi|Wallace Cocuzza|Gabriel Belo|[**Código do futuro**](https://codigodofuturo.corporate.gama.academy/)|
 |[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/) |[![GABRIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-218975121/) 
+
+<br>
 
 #  :large_orange_diamond: Sobre o projeto :  :bookmark_tabs:
 
