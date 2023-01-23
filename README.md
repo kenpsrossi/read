@@ -99,9 +99,11 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 - Definimos cada responsável pelo card ou checklist de completude ;
 - Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade .
 
-##  :large_orange_diamond: Modelo conceitual
+##  :large_orange_diamond: Modelo conceitual :scroll:
+:part_alternation_mark:**Modelo conceitual do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
 
+:part_alternation_mark:**Modelo lógico do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
 
 ##  :large_orange_diamond: Layout
